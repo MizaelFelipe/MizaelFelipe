@@ -1,7 +1,7 @@
 ### Ola Sou o Mizael Felipe 👋
 
 
-- 📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 2 semestre)
+- 📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 2 semestre.
 - 📩 - Contato - Mizaelfelipe@outlook.com
 - 🔗 - Linkedin - https://www.linkedin.com/in/mizael-felipe-ba41591b9/
 - 👨‍💻 - Linguagens/Framework - HTML/CSS/Javascript/React e o basico de Mysql.
