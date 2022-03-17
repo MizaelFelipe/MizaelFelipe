@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola Sou o Mizael Felipe 👋
 
-<!--
-**MizaelFelipe/MizaelFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 2 semestre)
+- 📩 - Contato - Mizaelfelipe@outlook.com🔗 - Linkedin - https://www.linkedin.com/in/mizael-felipe-ba41591b9/
+- 👨‍💻 - Linguagens/Framework - HTML/CSS/Javascript/React e o basico de Mysql.
+- 🚩 - Belo Horizonte/MG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/MizaelFelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
