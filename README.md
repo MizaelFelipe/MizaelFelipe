@@ -3,7 +3,7 @@
 
 - 📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 3 semestre.
 - 📩 - Contato - Mizaelfelipe@outlook.com
-- 🔗 - Linkedin - https://www.linkedin.com/in/mizael-felipe-ba41591b9/
+- 🔗 - Linkedin - linkedin.com/in/mizaelfelipedeveloper
 - 👨‍💻 - Linguagens/Framework - HTML/CSS/Javascript/React/NodeJS e o basico de Mysql.
 - 🚩 - Belo Horizonte/MG
 
